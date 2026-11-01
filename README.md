@@ -8,5 +8,5 @@ One and only, from scratch PC emulator in single html file
 
 And you can run it even on the phone :)
 
-<img width="400" height="700" alt="80386-mobile" src="https://github.com/user-attachments/assets/83fd6c78-79b9-4421-a89d-47e4ad4a5064" />
+<img width="300" height="700" alt="80386-mobile" src="https://github.com/user-attachments/assets/83fd6c78-79b9-4421-a89d-47e4ad4a5064" />
 
