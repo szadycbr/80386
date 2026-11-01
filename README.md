@@ -6,5 +6,5 @@ One and only, from scratch PC emulator in single html file
 
 <img width="1894" height="868" alt="80386-desktp" src="https://github.com/user-attachments/assets/9dff7074-d9af-4efb-a035-0cbda46a0c32" />
 
-<img width="800" height="1000" alt="80386-mobile" src="https://github.com/user-attachments/assets/83fd6c78-79b9-4421-a89d-47e4ad4a5064" />
+<img width="600" height="1000" alt="80386-mobile" src="https://github.com/user-attachments/assets/83fd6c78-79b9-4421-a89d-47e4ad4a5064" />
 
